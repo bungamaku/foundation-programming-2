@@ -1,0 +1,1 @@
+Put your Ticket class here, and don't forget to write "package ticket" at the top of your program

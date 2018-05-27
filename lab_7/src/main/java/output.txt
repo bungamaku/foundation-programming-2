@@ -1,0 +1,88 @@
+=======================================
+Almarhum ditambah ke game
+=======================================
+Humas ditambah ke game
+=======================================
+Fooder ditambah ke game
+=======================================
+Mon ditambah ke game
+=======================================
+Mons ditambah ke game
+=======================================
+Sudah ada karakter bernama Mons
+=======================================
+Sudah ada karakter bernama Mons
+=======================================
+Magi ditambah ke game
+=======================================
+Mons dihapus dari game
+=======================================
+Tidak ada Mons
+=======================================
+Tidak ada Monsta
+=======================================
+Mons ditambah ke game
+=======================================
+Nyawa Fooder 0
+ dan matang
+=======================================
+Humas memakan Fooder
+Nyawa Humas kini 25
+=======================================
+Nyawa Humas 15
+=======================================
+Nyawa Humas 5
+=======================================
+Nyawa Humas 0
+ dan matang
+=======================================
+Nyawa Mons 90
+=======================================
+Magi tidak bisa memakan Humas
+=======================================
+Mons memakan Humas
+Nyawa Mons kini 105
+=======================================
+Mons tidak bisa memakan Magi
+=======================================
+Human Humas
+=======================================
+Humas ditambah ke game
+=======================================
+Magician Magi
+HP: 150
+Masih hidup
+Belum memakan siapa siapa
+=======================================
+Monster Mons
+HP: 105
+Masih hidup
+Memakan Human Humas
+=======================================
+Magi tidak bisa berteriak
+=======================================
+AAAAAAaaaAAAAAaaaAAAAAA
+=======================================
+Tidak ada Katty Perry
+=======================================
+Human Almarhum
+HP: 0
+Sudah meninggal dunia dengan damai
+Belum memakan siapa siapa
+Monster Mon
+HP: 100
+Masih hidup
+Belum memakan siapa siapa
+Magician Magi
+HP: 150
+Masih hidup
+Belum memakan siapa siapa
+Monster Mons
+HP: 105
+Masih hidup
+Memakan Human Humas
+Human Humas
+HP: 20
+Masih hidup
+Belum memakan siapa siapa
+

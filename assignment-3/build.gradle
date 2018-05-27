@@ -1,0 +1,17 @@
+description = """
+Gradle build script for Programming Foundations 2 assignment 3.
+"""
+
+// It is mostly empty since the configuration will be injected from the root
+// build.gradle
+
+dependencies {
+    implementation group: 'org.json', name: 'json', version: '20180130'
+}
+
+apply plugin: 'application'
+mainClassName = 'javari.A3Festival'
+
+run {
+    standardInput = System.in
+}

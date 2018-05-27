@@ -1,0 +1,4 @@
+The train departs to Javari Park
+[LOCO]<--(JAGUAR)
+Average mass index of all cats: 12.50
+In average, the cats in the train are *underweight*

@@ -1,0 +1,60 @@
+User Mahasiswa Teladan berhasil ditambahkan!
+User Mahasiswa Baru berhasil ditambahkan!
+User Mahasiswa Teladan sudah ada!
+Event UTS DDP2 berhasil ditambahkan!
+Event UTS DDP1 berhasil ditambahkan!
+Event UTS DDP2 sudah ada!
+Waktu yang diinputkan tidak valid!
+Event Asis SDA Forever berhasil ditambahkan!
+UTS DDP2
+Waktu mulai: 21-05-2016, 11:02:34
+Waktu selesai: 21-05-2016, 14:00:00
+Biaya kehadiran: 2000421412210
+Asis SDA Forever
+Waktu mulai: 21-05-2017, 11:20:34
+Waktu selesai: 21-05-2018, 15:00:00
+Biaya kehadiran: 123000000000000000000000123456789000000000000000001234567891234567800000000000000000000000000000000012345678912345678912345678900000000000000000000000000000000000000000001234567893456789123456789000000000000000123456789123456789000000000000000000123456789123456789123456789123456789123456789
+Mahasiswa Baru berencana menghadiri UTS DDP2!
+Mahasiswa Teladan berencana menghadiri UTS DDP1!
+Tidak ada pengguna dengan nama Mahasiswa Abadi dan acara dengan nama UTS DDP3!
+Mahasiswa Baru sibuk sehingga tidak dapat menghadiri UTS DDP1!
+Tidak ada pengguna dengan nama Mahasiswa Abadi!
+Mahasiswa Teladan berencana menghadiri Asis SDA Forever!
+User Mahasiswa suka makan berhasil ditambahkan!
+Event Makan siang berhasil ditambahkan!
+Event Makan telat berhasil ditambahkan!
+Event Sarapan berhasil ditambahkan!
+Event Makan malam berhasil ditambahkan!
+Event Ngoding seharian berhasil ditambahkan!
+Mahasiswa suka makan berencana menghadiri Makan malam!
+Mahasiswa suka makan berencana menghadiri Makan telat!
+Mahasiswa suka makan sibuk sehingga tidak dapat menghadiri Ngoding seharian!
+Mahasiswa suka makan berencana menghadiri Sarapan!
+Mahasiswa suka makan berencana menghadiri Makan siang!
+Sarapan
+Waktu mulai: 20-01-2014, 06:30:00
+Waktu selesai: 20-01-2014, 07:00:00
+Biaya kehadiran: 10000
+Makan siang
+Waktu mulai: 20-01-2014, 12:30:00
+Waktu selesai: 20-01-2014, 13:00:00
+Biaya kehadiran: 15000
+Makan malam
+Waktu mulai: 20-01-2014, 19:30:00
+Waktu selesai: 20-01-2014, 20:00:00
+Biaya kehadiran: 20000
+Makan telat
+Waktu mulai: 20-01-2014, 22:30:00
+Waktu selesai: 20-01-2014, 23:00:00
+Biaya kehadiran: 35000
+Biaya Mahasiswa suka makan: 80000
+UTS DDP1
+Waktu mulai: 21-05-2016, 11:00:00
+Waktu selesai: 21-05-2016, 12:00:00
+Biaya kehadiran: 451234412000
+Asis SDA Forever
+Waktu mulai: 21-05-2017, 11:20:34
+Waktu selesai: 21-05-2018, 15:00:00
+Biaya kehadiran: 123000000000000000000000123456789000000000000000001234567891234567800000000000000000000000000000000012345678912345678912345678900000000000000000000000000000000000000000001234567893456789123456789000000000000000123456789123456789000000000000000000123456789123456789123456789123456789123456789
+Biaya Mahasiswa Teladan: 123000000000000000000000123456789000000000000000001234567891234567800000000000000000000000000000000012345678912345678912345678900000000000000000000000000000000000000000001234567893456789123456789000000000000000123456789123456789000000000000000000123456789123456789123456789123457240357868789
+Biaya Mahasiswa Baru: 2000421412210

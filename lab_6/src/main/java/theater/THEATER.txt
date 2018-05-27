@@ -1,0 +1,1 @@
+Put your Theater class here, and don't forget to write "package theater" at the top of your program

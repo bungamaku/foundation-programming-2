@@ -1,0 +1,4 @@
+The train departs to Javari Park
+[LOCO]<--(SANDCAT)--(SERVAL)--(JAGUAR)--(TOMCAT)
+Average mass index of all cats: 22.22
+In average, the cats in the train are *normal*

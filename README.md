@@ -21,4 +21,4 @@ Dasar-dasar Pemrograman 2 - CSGE601021 | Fakultas Ilmu Komputer, Universitas Ind
     1. [Assignment 1: Train to Javari Park](assignment-1/README.md)
     2. [Assignment 2: Animal, Cage, and Sounds of Javari Park](assignment-2/README.md)
     3. [Assignment 3: Javari Park Festival](assignment-3/README.md)
-    4. [Assignment 4: Match-Pair Memory Game](assignment-4/README.md)# foundation-programming-2
+    4. [Assignment 4: Match-Pair Memory Game](assignment-4/README.md)

@@ -1,0 +1,6 @@
+description = """
+Gradle build script for Programming Foundations 2 assignment 2.
+"""
+
+// It is mostly empty since the configuration will be injected from the root
+// build.gradle

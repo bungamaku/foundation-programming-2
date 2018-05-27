@@ -1,0 +1,13 @@
+description = """
+Gradle build script for Programming Foundations 2 assignment 1.
+"""
+
+// It is mostly empty since the configuration will be injected from the root
+// build.gradle
+apply plugin: 'application'
+mainClassName = 'A1Station'
+
+// See: https://stackoverflow.com/questions/13172137/console-application-with-java-and-gradle
+run {
+    standardInput = System.in
+}
